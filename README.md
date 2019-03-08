@@ -7,4 +7,8 @@ This project has following lists:
 - Single hyphen and space makes the lists.
 
 
-try to understand fork
+
+1. **try to understand fork**
+2.
+3.
+4. confuse him less about *pull-requests* 
